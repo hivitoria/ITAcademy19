@@ -1,0 +1,15 @@
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\bin\Debug\net6.0\02_interfaceSistema.exe
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\bin\Debug\net6.0\02_interfaceSistema.deps.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\bin\Debug\net6.0\02_interfaceSistema.runtimeconfig.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\bin\Debug\net6.0\02_interfaceSistema.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\bin\Debug\net6.0\02_interfaceSistema.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.csproj.AssemblyReference.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.AssemblyInfoInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.AssemblyInfo.cs
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\refint\02_interfaceSistema.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\02_interfaceSistema.genruntimeconfig.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\02_interfaceSistema\obj\Debug\net6.0\ref\02_interfaceSistema.dll

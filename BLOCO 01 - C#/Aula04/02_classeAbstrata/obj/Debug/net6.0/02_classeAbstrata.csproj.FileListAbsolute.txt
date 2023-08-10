@@ -1,0 +1,15 @@
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\bin\Debug\net6.0\02_classeAbstrata.exe
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\bin\Debug\net6.0\02_classeAbstrata.deps.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\bin\Debug\net6.0\02_classeAbstrata.runtimeconfig.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\bin\Debug\net6.0\02_classeAbstrata.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\bin\Debug\net6.0\02_classeAbstrata.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.csproj.AssemblyReference.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.AssemblyInfoInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.AssemblyInfo.cs
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\refint\02_classeAbstrata.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\02_classeAbstrata.genruntimeconfig.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula04\02_classeAbstrata\obj\Debug\net6.0\ref\02_classeAbstrata.dll

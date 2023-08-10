@@ -1,0 +1,15 @@
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\bin\Debug\net6.0\01_Construtor.exe
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\bin\Debug\net6.0\01_Construtor.deps.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\bin\Debug\net6.0\01_Construtor.runtimeconfig.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\bin\Debug\net6.0\01_Construtor.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\bin\Debug\net6.0\01_Construtor.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.csproj.AssemblyReference.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.AssemblyInfoInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.AssemblyInfo.cs
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\refint\01_Construtor.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\01_Construtor.genruntimeconfig.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula03\01_Construtor\obj\Debug\net6.0\ref\01_Construtor.dll

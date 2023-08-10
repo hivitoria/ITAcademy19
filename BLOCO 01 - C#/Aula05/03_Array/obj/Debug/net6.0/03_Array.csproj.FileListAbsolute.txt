@@ -1,0 +1,15 @@
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\bin\Debug\net6.0\03_Array.exe
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\bin\Debug\net6.0\03_Array.deps.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\bin\Debug\net6.0\03_Array.runtimeconfig.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\bin\Debug\net6.0\03_Array.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\bin\Debug\net6.0\03_Array.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.csproj.AssemblyReference.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.AssemblyInfoInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.AssemblyInfo.cs
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\refint\03_Array.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\03_Array.genruntimeconfig.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\03_Array\obj\Debug\net6.0\ref\03_Array.dll

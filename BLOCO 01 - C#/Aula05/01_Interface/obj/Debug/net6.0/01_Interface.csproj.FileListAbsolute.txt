@@ -1,0 +1,15 @@
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\bin\Debug\net6.0\01_Interface.exe
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\bin\Debug\net6.0\01_Interface.deps.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\bin\Debug\net6.0\01_Interface.runtimeconfig.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\bin\Debug\net6.0\01_Interface.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\bin\Debug\net6.0\01_Interface.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.csproj.AssemblyReference.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.AssemblyInfoInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.AssemblyInfo.cs
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\refint\01_Interface.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\01_Interface.genruntimeconfig.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\IT Academy 19\BLOCO 01 - C#\Aula05\01_Interface\obj\Debug\net6.0\ref\01_Interface.dll
