@@ -1,0 +1,15 @@
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.csproj.AssemblyReference.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.AssemblyInfoInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.AssemblyInfo.cs
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\bin\Debug\net6.0\Laboratorio1.exe
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\bin\Debug\net6.0\Laboratorio1.deps.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\bin\Debug\net6.0\Laboratorio1.runtimeconfig.json
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\bin\Debug\net6.0\Laboratorio1.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\bin\Debug\net6.0\Laboratorio1.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\refint\Laboratorio1.dll
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.pdb
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\Laboratorio1.genruntimeconfig.cache
+C:\Users\Vitoria_Silva\OneDrive - Dell Technologies\Documents\ITAcademy 19\BLOCO 01 - C#\Laboratories\Laboratorio1\obj\Debug\net6.0\ref\Laboratorio1.dll
