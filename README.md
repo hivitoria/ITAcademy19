@@ -19,7 +19,7 @@ Repositório das minhas resoluções de exercícios e projetos de estudo do IT A
 - Aula 04 - Finalização dos testes e exemplos com o DemoCepRest e estudo do template padrão DemoTemplateMVC;
 - Aula 05 - Análise e exemplos de estudo do DemoWebAppMVC.
 
-| ## Habilidades desenvolvidas | 🛠  |
+## Habilidades desenvolvidas 🛠
 | --- | --- |
 | [![LOGO c#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)](#) | [![LOGO .net](https://img.shields.io/badge/.NET-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white)](#) |
 | [![LOGO sql](https://img.shields.io/badge/SQLServer-CC2927?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#) | [![LOGO html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#) |
