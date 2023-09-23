@@ -19,6 +19,7 @@ Repositório das minhas resoluções de exercícios e projetos de estudo do IT A
 - Aula 04 - Finalização dos testes e exemplos com o DemoCepRest e estudo do template padrão DemoTemplateMVC;
 - Aula 05 - Análise e exemplos de estudo do DemoWebAppMVC.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | Habilidades desenvolvidas e recursos utilizados 🛠 | |
 | --- | --- |
