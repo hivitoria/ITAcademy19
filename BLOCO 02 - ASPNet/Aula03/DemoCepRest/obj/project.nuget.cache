@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cygxUrj0RQ1ggbxulT6jlwQ3CjZ0q/C0rFwSpXgeUruWN6F0hYdsv4kKf31wId7RXequ+qU+zlH6p9xwEUh9fg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Vitoria_Silva\\OneDrive - Dell Technologies\\Documents\\ITAcademy 19\\BLOCO 03 - Entity Framework\\Aula01\\DemoCepRest2\\DemoCepRest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitoria_Silva\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Vitoria_Silva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vitoria_Silva\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vitoria_Silva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vitoria_Silva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vitoria_Silva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

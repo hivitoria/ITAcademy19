@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "effXoPyhSkkVEccrSXclMfdepwXSHvLQ+aymWQAgR9A=",
+  "Source": "DemoHelloWorldRest",
+  "BasePath": "_content/DemoHelloWorldRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
