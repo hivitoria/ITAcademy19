@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vitoria_Silva\\OneDrive - Dell Technologies\\Documents\\ITAcademy 19\\BLOCO 02 - ASPNet\\Aula03\\DemoTemplateMVC\\DemoTemplateMVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vitoria_Silva\\OneDrive - Dell Technologies\\Documents\\ITAcademy 19\\BLOCO 02 - ASPNet\\Aula03\\DemoTemplateMVC\\DemoTemplateMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vitoria_Silva\\OneDrive - Dell Technologies\\Documents\\ITAcademy 19\\BLOCO 02 - ASPNet\\Aula03\\DemoTemplateMVC\\DemoTemplateMVC.csproj",
+        "projectName": "DemoTemplateMVC",
+        "projectPath": "C:\\Users\\Vitoria_Silva\\OneDrive - Dell Technologies\\Documents\\ITAcademy 19\\BLOCO 02 - ASPNet\\Aula03\\DemoTemplateMVC\\DemoTemplateMVC.csproj",
+        "packagesPath": "C:\\Users\\Vitoria_Silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitoria_Silva\\OneDrive - Dell Technologies\\Documents\\ITAcademy 19\\BLOCO 02 - ASPNet\\Aula03\\DemoTemplateMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vitoria_Silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
